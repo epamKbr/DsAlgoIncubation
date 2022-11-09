@@ -126,7 +126,7 @@ int fun10(int n) {
     return m;
 }
 
-Ans:O(n)
+Ans:O(n^2)
 
 Problem 11
 int fun11(int n) {
